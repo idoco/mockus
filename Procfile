@@ -1,1 +1,1 @@
-web: node ./mockus-server/lib/index.js
+web: node mockus-server/lib/index.js
