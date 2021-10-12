@@ -1,6 +1,10 @@
 # Mockus
 Http endpoint mocking and configuring solution, with easy and simple to use web interface, which updates immediatly on save, with no need to restart!
 
+Click here to deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/idoco/mockus/blob/heroku)
+
 ![Mockus](https://i.imgur.com/5z2uWzw.jpg)
 
 ---
